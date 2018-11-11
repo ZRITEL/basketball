@@ -1,9 +1,11 @@
 import requests
 
-site = str(input("Введите ссылку на матч с сайта www.myscore.ru :\n"))
-url = requests.get(site)
-htmltext = url.text
-start = htmltext.find("<title>") + 7
-finish = htmltext.find("</title>")
-S1 = htmltext[start:finish]
-print(S1)
+site = str(input("Введите ссылку на матч с сайта www.myscore.ru :\n"))  # Получаем ссылку на сайт от пользователя
+url = requests.get(site)   #  Загружаем интернет страницу по ссылке пользователя
+htmltext = url.text        #  Переводим страницу в текст (в строку)
+
+# Блок вывода загаловка страницы
+start = htmltext.find("<title>") + 7   # Определяем позицию первого символа загаловка
+finish = htmltext.find("</title>")     # Определяем позицию последнего символа заголовка
+S1 = htmltext[start:finish]            # Запоминаем в строку заголовок
+print(S1)                              # Выводим заголовок
