@@ -2,10 +2,25 @@ import requests
 
 site = str(input("Введите ссылку на матч с сайта www.myscore.ru :\n"))  # Получаем ссылку на сайт от пользователя
 url = requests.get(site)   #  Загружаем интернет страницу по ссылке пользователя
-htmltext = url.text        #  Переводим страницу в текст (в строку)
+html = url.text        #  Переводим страницу в текст (в строку)
 
 # Блок вывода загаловка страницы
-start = htmltext.find("<title>") + 7   # Определяем позицию первого символа загаловка
-finish = htmltext.find("</title>")     # Определяем позицию последнего символа заголовка
-S1 = htmltext[start:finish]            # Запоминаем в строку заголовок
-print(S1)                              # Выводим заголовок
+start = html.find("<title>") + 7   # Определяем позицию первого символа загаловка
+finish = html.find("</title>")     # Определяем позицию последнего символа заголовка
+title = html[start:finish]            # Запоминаем в строку заголовок
+print("Вы выбрали матч ", title)                              # Выводим заголовок
+
+#Блок вывода домашней команды
+home = html.find("<div class=\"team-text tname-home\">")
+start = html.find("return false;\">", home) + 15
+finish = html.find("</a>", start)
+team_1 = html[start:finish]
+print("Команда 1: ", team_1)
+
+#Блок вывода гостевой команды
+home = html.find("<div class=\"team-text tname-away\">")
+start = html.find("return false;\">", home) + 15
+finish = html.find("</a>", start)
+team_2 = html[start:finish]
+print("Команда 2: ", team_2)
+
