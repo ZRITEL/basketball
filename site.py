@@ -1,8 +1,16 @@
 import requests
 
+#Блок загрузки страницы по ссылке пользователя
 site = str(input("Введите ссылку на матч с сайта www.myscore.ru :\n"))  # Получаем ссылку на сайт от пользователя
 url = requests.get(site)   #  Загружаем интернет страницу по ссылке пользователя
 html = url.text        #  Переводим страницу в текст (в строку)
+
+#Блок загрузки страницы с таблицей
+posit = site.find("match-summary")
+site = site[0:posit]
+site_tabl = site + "standings;table;overall"
+url = requests.get(site_tabl)
+html_tabl = url.text
 
 # Блок вывода загаловка страницы
 start = html.find("<title>") + 7   # Определяем позицию первого символа загаловка
