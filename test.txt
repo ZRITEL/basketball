@@ -1,0 +1,357 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE10;IE=11" />
+		<title>PES - PAL | Скаволини Пезаро - Паллаканестро Триесте</title>
+
+		<meta name="robots" content="NOODP,index,follow" />
+
+		<meta name="apple-itunes-app" content="app-id=766483467" />
+<meta name="google-play-app" content="app-id=eu.livesport.MyScore_ru" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui" />
+<meta property="og:title" content="Скаволини Пезаро - Паллаканестро Триесте" />
+<meta property="og:image" content="http://www.myscore.ru/res/image/data/4WgyZuZA-UsRytPht-0vxsXwDt.png" />
+<meta property="og:description" content="ИТАЛИЯ: Лига А - Тур 6" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="shortcut icon" href="/res/_fs/icon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/res/image/mobile-icons/fs-green/180x180.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/res/image/mobile-icons/fs-green/152x152.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/res/image/mobile-icons/fs-green/120x120.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/res/image/mobile-icons/fs-green/72x72.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/res/image/mobile-icons/fs-green/57x57.png" />
+<link rel="apple-touch-icon" href="/res/image/mobile-icons/fs-green/touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="MyScore.ru">
+<meta name="application-name" content="MyScore.ru">
+<meta name="msapplication-square150x150logo" content="/res/image/mobile-icons/fs-green/336x336.png">
+	<script type="text/javascript" src="/x/js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="/x/js/framework31.js"></script>
+	<script type="text/javascript" src="/x/js/lscompressor-min.js"></script>
+	<script type="text/javascript" src="/x/js/core_12_1569000000.js"></script>
+	<script type="text/javascript" src="/x/js/detail_12_1569000000.js"></script>
+	<link rel="stylesheet" type="text/css" href="/x/css/detail_12_1319000000.css" media="all" />
+	<script type="text/javascript" src="/x/js/table_12_1569000000.js"></script>
+		<script type="text/javascript">
+			try { refresh_alert_check_on(); } catch(e) {}
+		</script>
+				<script type="text/javascript">
+			// <![CDATA[
+			document.domain = 'myscore.ru';
+			var counter_duration_time = 60;
+
+			var participantEncodedIds = ['UucTrDe9','f7SJ0Orj'];
+			var tournamentStageEncodedId = 'rydC2Qu2';
+			var tournamentEncodedId = 'EoRsOS2A';
+			var tournamentNameWithStage = 'Лига А';
+			var detailPage = null;
+
+			var g2utime = 1542051000;
+			var game_utime = 1542051000;
+			var game_utime_end = 0;
+			var event_stage_type_id = 1;
+			var race_or_main_stage_status_id = null;
+			var event_stage_id = 1;
+			var game_update_time = 1541991911;			var app_gmt_offset = -10800;
+			var default_tz = 3;
+			var tudate = 1541980800;			var mid_s = 3;
+			var sport_id = 3;
+			var page_hlscore_title = "";
+			//var odds_format_url = "eu";
+			var mpe_alias = 'p1:100, p2:100, p3:100, p4:100, p5:100, p6:100, p7:100, p8:100, p9:100, p10:100';
+			var mpe_delivery = 'a';
+			var mpr = 18;
+			var refresh_serial = 0;
+			var event_stage_trans = new Array();
+			var home_3char = "PES";
+			var away_3char = "PAL";
+			var title_at_char = "";
+			var isSwapped = "";
+			var playingOnSets = "";
+			var hasLiveCentreEnabled = 1;
+			var isParticipantDetail = 0;
+			var eventParticipantEncodedId = "ltB92yKu";
+			var stageId = "";
+			var externalProjectId = 0;
+			var hasScratches = false;
+			cjs.bookmakersData = {"RU":[{"main_bookmaker_id":"454","project_id":"12","geo_ip":"RU","name":"Winline.ru"},{"main_bookmaker_id":"453","project_id":"12","geo_ip":"RU","name":"1xStavka"}],"KZ":[{"main_bookmaker_id":"471","project_id":"12","geo_ip":"KZ","name":"1xBet.kz"}],"default":[{"main_bookmaker_id":"454","project_id":"12","geo_ip":"default","name":"Winline.ru"},{"main_bookmaker_id":"453","project_id":"12","geo_ip":"default","name":"1xStavka"}]};
+			cjs.bookmakerLogos = {"url":"\/res\/image\/data\/m-ddxzWOqT-ryuuqFqp.png?bookmaker","offsets":{"16":0,"58":21,"453":42,"454":63,"455":84,"471":105,"486":126}};
+			var tz_list = [+0,+1,+2,+3,+4,+5,+6,+7,+8,+9,+10,+11,+12,+13];			var sentences = [];
+			var sentences_parts = [];
+			var fs_detail = cjs.dic.getNewInstance('detail_fsdetail');
+fs_detail.DZ = 1;fs_detail.DD = 1542051000;fs_detail.AW = 1;fs_detail.DC = 1542051000;fs_detail.DS = 0;fs_detail.DI = -1;fs_detail.DL = 3;fs_detail.DM = "";fs_detail.DT = "";fs_detail.DX = "OD,HH,LT,TA,TV";fs_detail.DV = 3;fs_detail.SC = 454;fs_detail.SB = 3;fs_detail.SD = "Winline.ru";fs_detail.GB = '{"RU":true,"KZ":true,"default":true}';fs_detail.IY = 'PES';fs_detail.IZ = 'PAL';event_stage_trans[1] = "&nbsp;"; event_stage_trans[45] = "Будет доигран позже"; event_stage_trans[42] = "Ждем..."; event_stage_trans[2] = "Live"; event_stage_trans[22] = "1-я четверть"; event_stage_trans[23] = "2-я четверть"; event_stage_trans[24] = "3-я четверть"; event_stage_trans[25] = "4-я четверть"; event_stage_trans[6] = "Овертайм"; event_stage_trans[38] = "Перерыв"; event_stage_trans[46] = "Перерыв"; event_stage_trans[3] = "Завершен"; event_stage_trans[10] = "После овертайма"; event_stage_trans[9] = "Неявка"; event_stage_trans[43] = "Задержка"; event_stage_trans[36] = "Прерван"; event_stage_trans[4] = "Перенесен"; event_stage_trans[5] = "Отменен"; event_stage_trans[37] = "Прерван"; event_stage_trans[54] = "Тех. поражение"; 
+			$(window).bind('load', detail_load);
+			$(window).bind('load', function()
+			{
+				try{
+										window.e_t = cjs.dic.get('utilEnviroment').getEventTrackingObject();
+					banners.setDisplayedCallback(function(){e_t.bindAdsCallbackClick()});
+										document.lsadvert_display();
+					document.show_social_button();
+				}
+				catch(e)
+				{
+				}
+			});
+			$(window).bind('hashchange', detail_hashchange);
+			$(document).ready(function()
+			{
+				cjs.dic.get('DicProxy').onReady(function()
+				{
+					detail_init('basketball', '2sERZMTa', game_update_time);
+					set_detail_bet_icon_states("tab-prematch-odds");
+					detail_tab();
+					detail_delegate_actions(3, 'basketball', '2sERZMTa');
+				});
+
+									initFeedRequest();
+					myTeamsInit(3);
+					if (typeof cjs.myTeams != 'undefined')
+					{
+						cjs.myTeams.printToggleIcons();
+						cjs.myTeams.delegateTooltips();
+					}
+				
+				
+				cjs.dic.get('Util_DeviceTab').setDeviceTypeToElement($("body"));
+				window.onresize = function() {
+					cjs.dic.get('Util_DeviceTab').setDeviceTypeToElement($("body"));
+				};
+
+			});
+
+					// ]]>
+		</script>
+
+<script type="text/javascript">
+// <![CDATA[
+var stats2Config = {"tournament":"EoRsOS2A","tournamentStage":"rydC2Qu2","statsTabsConfig":{"16":{"name":"\u0422\u0430\u0431\u043b\u0438\u0446\u0430 Live","url":"live","sortKey":1},"1":{"name":"\u0422\u0430\u0431\u043b\u0438\u0446\u0430","url":"table","sortKey":2,"items":{"1":{"name":"\u0418\u0442\u043e\u0433\u043e","url":"overall","sortKey":1},"2":{"name":"\u0414\u043e\u043c\u0430","url":"home","sortKey":2},"3":{"name":"\u0412 \u0433\u043e\u0441\u0442\u044f\u0445","url":"away","sortKey":3}}},"5":{"name":"\u0424\u043e\u0440\u043c\u0430","url":"form","sortKey":3,"items":{"5":{"name":"\u0418\u0442\u043e\u0433\u043e","url":"overall","has_sub_items":true,"sortKey":1},"8":{"name":"\u0414\u043e\u043c\u0430","url":"home","has_sub_items":true,"sortKey":2},"9":{"name":"\u0412 \u0433\u043e\u0441\u0442\u044f\u0445","url":"away","has_sub_items":true,"sortKey":3}}},"6":{"name":"\u0422\u043e\u0442\u0430\u043b\u044b","url":"over_under","sortKey":4,"items":{"6":{"name":"\u0418\u0442\u043e\u0433\u043e","url":"overall","has_sub_items":true,"sortKey":1},"17":{"name":"\u0414\u043e\u043c\u0430","url":"home","has_sub_items":true,"sortKey":2},"18":{"name":"\u0412 \u0433\u043e\u0441\u0442\u044f\u0445","url":"away","has_sub_items":true,"sortKey":3}}},"7":{"name":"\u0421\u0435\u0440\u0438\u0438","url":"streaks","sortKey":5},"-1":{"name":"\u0421\u0435\u0442\u043a\u0430","url":"draw","sortKey":6},"13":{"url":"ht_ft","name":"HT\/FT","title":"\u0422\u0430\u0439\u043c\/\u043c\u0430\u0442\u0447","sortKey":7,"items":{"13":{"name":"\u0418\u0442\u043e\u0433\u043e","url":"overall","sortKey":1},"14":{"name":"\u0414\u043e\u043c\u0430","url":"home","sortKey":2},"15":{"name":"\u0412 \u0433\u043e\u0441\u0442\u044f\u0445","url":"away","sortKey":3}}},"10":{"name":"\u0411\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u044b","url":"top_scorers","sortKey":8}},"statsOverUnderTypes":[]};
+
+// ]]>
+</script>
+		</head>
+
+	
+
+	<body id="top" class="basketball detail-experimental detailbody flat">
+	
+		<div id="detail" class="sport-basketball"><div id="detcon">
+<div class="detail-header-wrapper">
+	<div class="logo-detail-wrapper">
+		<a href="/" target="_blank">
+			<div class="project-logo-detail myscore-ru-white"></div>
+		</a>
+	</div>
+	<div class="detail">
+		<div class="header">
+			<div class="headerStrip">
+				<div class="fleft">
+					<span class="flag fl_98"></span>
+					<span>ИТАЛИЯ: <a href="#" onclick="window.open('/basketball/italy/lega-a/'); return false;">Лига А - Тур 6</a></span>
+				</div>
+				<div id="utime" class="info-time mstat-date"></div>
+			</div>
+		</div>
+		<div class="hclean"></div>
+	</div>
+</div><div id="preload-all"><div class="preload"><span>Loading...</span></div></div><div id="content-all" class="v-hidden"><div id="fscon-service-status"></div>
+			<div id="flashscore" class="team">
+				<div class="team-primary-content">
+					<div class="home-box logo-enable">
+						
+			<div class="side-images-wrapper tlogo-home">
+				<div class="side-images-row">
+					
+					
+					<a href="#" class="participant-imglink" onclick="window.open('/team/pesaro/UucTrDe9'); return false;"><img width="50" height="50" src="/res/image/data/4WgyZuZA-tb5yO2J4.png" alt="Скаволини Пезаро" title="Показать профиль" /></a><div id="tomyteams_3_UucTrDe9" class="tomyteams"></div>
+				</div>
+			</div>
+						<div class="team-text tname-home">
+							<div class="tname">
+								<div class="tname__text">
+								    <span style="display: none" class="dw-icon ico">&nbsp;</span>
+									<a href="#" class="participant-imglink" onclick="window.open('/team/pesaro/UucTrDe9'); return false;">Скаволини Пезаро</a>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="match-info">
+						<div class="current-result" id="event_detail_current_result">
+							<span class="scoreboard-divider">-</span>
+						</div>
+						<div class="info-status mstat">
+							&nbsp;
+						</div>
+					</div>
+					<div class="away-box logo-enable">
+						
+			<div class="side-images-wrapper tlogo-away">
+				<div class="side-images-row">
+					
+					
+					<div id="tomyteams_3_f7SJ0Orj" class="tomyteams"></div><a href="#" class="participant-imglink" onclick="window.open('/team/pallacanestro-trieste/f7SJ0Orj'); return false;"><img width="50" height="50" src="/res/image/data/W4ORlKyB-0vxsXwDt.png" alt="Паллаканестро Триесте" title="Показать профиль" /></a>
+				</div>
+			</div>
+						<div class="team-text tname-away">
+							<div class="tname">
+								<div class="tname__text">
+									<a href="#" class="participant-imglink" onclick="window.open('/team/pallacanestro-trieste/f7SJ0Orj'); return false;">Паллаканестро Триесте</a>
+								    <span style="display: none" class="dw-icon ico">&nbsp;</span>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<div class="team-secondary-content">
+					
+				</div>
+			</div><div id="detail-bookmarks"></div><div id="tab-match-summary" style="display: none;"><div id="summary-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div><div id="summary-content"><div id="missing-players-content"></div><div class="match-information-wrapper">
+	<div class="parts match-information">
+		<div>
+			<div class="stage-header">
+				<div class="h-part">Информация о матче</div>
+			</div>
+				<div class="match-information-data">
+						<div class="content">Стадион: АДРИАТИК Арена (Пезаро)</div>
+			</div>
+		</div>
+	</div>
+</div></div><div class="spacer-block">&nbsp;</div></div>			<div id="tab-match-odds-comparison" style="display: none;">
+			<div id="odds-comparison-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="odds-comparison-content"></div>
+			
+			</div>			<div id="tab-match-tv" style="display: none;">
+			<div id="tv-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="tv-content"></div>
+			
+			</div>			<div id="tab-match-highlights" style="display: none;">
+			<div id="highlights-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="highlights-content"></div>
+			
+			</div>			<div id="tab-match-photoreport" style="display: none;">
+			<div id="photoreport-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="photoreport-content"></div>
+			
+			</div>			<div id="tab-match-head-2-head" style="display: none;">
+			<div id="head-2-head-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="head-2-head-content"></div>
+			
+			</div>			<div id="tab-match-lineups" style="display: none;">
+			<div id="lineups-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="lineups-content"></div>
+			
+			</div>			<div id="tab-match-statistics" style="display: none;">
+			<div id="statistics-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="statistics-content"></div>
+			
+			</div>			<div id="tab-match-player-statistics" style="display: none;">
+			<div id="player-statistics-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="player-statistics-content"></div>
+			
+			</div>			<div id="tab-match-fall-of-wickets" style="display: none;">
+			<div id="fall-of-wickets-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="fall-of-wickets-content"></div>
+			
+			</div>			<div id="tab-match-overs" style="display: none;">
+			<div id="overs-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="overs-content"></div>
+			
+			</div>			<div id="tab-match-history" style="display: none;">
+			<div id="match-history-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="match-history-content"></div>
+			
+			</div>			<div id="tab-match-commentary" style="display: none;">
+			<div id="commentary-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="commentary-content"></div>
+			
+			</div>			<div id="tab-match-commentary-new" style="display: none;">
+			<div id="commentary-new-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="commentary-new-content"></div>
+			
+			</div>			<div id="tab-match-live-table" style="display: none;">
+			<div id="live-table-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="live-table-content"></div>
+			
+			</div>			<div id="tab-match-standings" style="display: none;">
+			<div id="standings-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="standings-content"></div>
+			<div class="spacer-block">&nbsp;</div>
+			</div>			<div id="tab-match-draw" style="display: none;">
+			<div id="draw-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="draw-content"></div>
+			
+			</div>			<div id="tab-match-newsfeed" style="display: none;">
+			<div id="newsfeed-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="newsfeed-content"></div>
+			
+			</div><hr class="cleaner"/><div class="live-betting-strip"></div>			<script type="text/javascript">
+				cjs.dic.get('Feed_Content_OddsSetup').setStripData({"454":"y","453":"y","471":"y"});
+			</script>
+						<script type="text/javascript">
+				cjs.dic.get('Feed_Content_OddsSetup').setLiveData({"tableType":"live-odds","tabTitle":"Live \u043a\u044d\u0444\u044b","hasOddsComparison":false,"defaultColumnWidth":60,"isBettingType_TWP":false,"isBettingType_1X2":false,"isBettingType_ASIAN_HANDICAP":false,"isNotBettingType_HOME_AWAY_DRAW_NO_BET":false,"bookmakerTitle":"&nbsp;","tableHeader":[{"name":"1"},{"name":"2"}],"handicap":{"type":"","value":"-"},"useBookmarkInOne":false,"moreBookmakersText":"\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0435\u0449\u0435 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u043e\u0432","emptyCellChar":"-","geoOddsComparisonSettings":{"RU":true,"KZ":true,"default":true}});
+			</script>
+						<script type="text/javascript">
+				cjs.dic.get('Feed_Content_OddsSetup').setPrematchData({"tableType":"odds","tabTitle":"\u041a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u044b","defaultColumnWidth":60,"isBettingType_TWP":false,"isBettingType_1X2":false,"isBettingType_ASIAN_HANDICAP":false,"isNotBettingType_HOME_AWAY_DRAW_NO_BET":false,"bookmakerTitle":"&nbsp;","tableHeader":[{"name":"1"},{"name":"2"}],"handicap":{"type":"","value":0},"hasOddsComparison":true,"useBookmarkInOne":false,"moreBookmakersText":"\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0435\u0449\u0435 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u043e\u0432","emptyCellChar":"-","geoOddsComparisonSettings":{"RU":true,"KZ":true,"default":true}});
+			</script>
+			<div id="odds-main-wrapper" style="display:none">
+	<div class="odds-comparison-bookmark ifmenu-wrapper">
+		<ul class="ifmenu">
+			<li id="odds-tab-live" style="display:none"><span><a href="#odds-tab-live" onclick="cjs.dic.get('Feed_Content_OddsSetup').switchTab('live'); return false">Live кэфы</a></span></li>
+			<li id="odds-tab-prematch" class="selected" style="display:none"><span><a href="#odds-tab-prematch" onclick="cjs.dic.get('Feed_Content_OddsSetup').switchTab('prematch'); return false">Коэффициенты</a></span></li>
+		</ul>
+	</div>
+	<div class="color-spacer odds-spacer"></div>
+
+		<div id="tab-live-odds" style="display:none">
+			<div id="live-odds-content">
+			</div>
+<div id="detail-bonus-match-summary-content-live" class="detail-bonus-match-summary-content"></div>		</div>
+		<div id="tab-prematch-odds" style="display:none">
+			<div id="prematch-odds-content">
+			</div>
+<div id="detail-bonus-match-summary-content-prematch" class="detail-bonus-match-summary-content"></div>		</div>
+</div><div id="detail-bonus-odds-comparison-content"></div>
+<div id="broadcast"></div><script type="text/javascript">
+	// <![CDATA[
+	var page_is_initialized = false;
+	cjs.dic.get('Helper_CurrentTime').setServerTimestamp(1541992472);
+	// ]]>
+</script>
+</div>
+<div class="adsenvelope adstextpad banx-detail_basketball" id="lsadvert-zid-227" style="width:300px;"><div style="height:250px"><div class="adscontent" id="lsadvert-detail_basketball"><iframe id="lsadvert-zid-227-iframe" name="banx-detail_basketball" frameborder="0" scrolling="no" style="allowTransparency: true; visibility: hidden; width:300px; height:250px"></iframe></div><div class="adsgraphhori"><div class="adsghori ath-ru"></div></div></div></div><div id="crt-522703" class="ban_envelope " style="width:300px; height:250px; display: none;"></div><script type="text/javascript">if (jQuery("#crt-522703").is(":hidden")) { jQuery("#crt-522703").show(); }if (typeof banners_backup_callbacks == "undefined") { var banners_backup_callbacks = []; }banners_backup_callbacks.push(function() {jQuery("#crt-522703").show();Criteo.DisplayAcceptableAdIfAdblocked({"zoneid": 522703, "containerid": "crt-522703"}); });</script><div class="adsenvelope adstextpad banx-detail" id="lsadvert-zid-53" style="width:300px;"><div style="height:250px"><div class="adscontent" id="lsadvert-detail"><iframe id="lsadvert-zid-53-iframe" name="banx-detail" frameborder="0" scrolling="no" style="allowTransparency: true; visibility: hidden; width:300px; height:250px"></iframe></div><div class="adsgraphhori"><div class="adsghori ath-ru"></div></div></div></div><div id="detail-gamble-responsibly">Ставьте ответственно. <a href="http://www.gamblingtherapy.org/" target="_blank">Gambling Therapy</a>. 18+</div>
+<div id="winclose"><div id="sync-indicator" ondblclick="sync_change()"></div><a href="#" onclick="window.close();">закрыть окно</a></div>
+</div>
+<sport name="basketball" />
+<script>
+var dataLayer = dataLayer || []; // Google Tag Manager
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PWJ3NQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWJ3NQ');</script>
+<!-- End Google Tag Manager -->
+</div>
+				<script type="text/javascript">
+				// <![CDATA[
+				var banners; 
+				banners = new BannerHandler([227], [], window.bannersAdsServers || ["content.livesportmedia.eu"], [], jQuery, "\u0424\u043e\u043d\u043e\u0432\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0439.", clientStorage, {"227":{"height":1,"second_request":false,"zones":[53],"offset":false}}, true, [49,188,189,190,191,2531]);
+
+							
+			banners.addSetBackgroundCallback(function(zoneId, hasOffset){
+				var $body = jQuery("body");
+				$body.addClass('background-add-on');
+
+				// Hide social buttons (Warning: don't remove buttongs from DOM - it is dangerous operations and breaks Firefox)
+				jQuery('#social-button').css('display', 'none');
+			});
+
+
+		
+				document.lsadvert_display = function() {
+					banners.display();
+				}
+								// ]]>
+				</script>
+				</body></html>
