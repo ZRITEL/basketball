@@ -1,20 +1,22 @@
 import requests
+import time
 
 #Блок загрузки страницы по ссылке пользователя
+headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
 site = str(input("Введите ссылку на матч с сайта www.myscore.ru :\n"))  # Получаем ссылку на сайт от пользователя
-url = requests.get(site)   #  Загружаем интернет страницу по ссылке пользователя
+url = requests.get(site, headers=headers, timeout=10)   #  Загружаем интернет страницу по ссылке пользователя
 html = url.text        #  Переводим страницу в текст (в строку)
 
 #Блок загрузки страницы с таблицей
 posit = site.find("match-summary")
 site = site[0:posit]
 site_tabl = site + "standings;table;overall"
-url = requests.get(site_tabl)
+url = requests.get(site_tabl, headers=headers, timeout=10)
 html_tabl = url.text
 
 #Блок загрузки страницы с коэфицентами
 site_kx = site + "odds-comparison;home-away;ft-including-ot"
-url = requests.get(site_kx)
+url = requests.get(site_kx, headers=headers, timeout=10)
 html_kx = url.text
 
 #Блок с поиском коэфицентов
